@@ -12,8 +12,11 @@ Using a bang, `!` after the name of a method causes it to impact the current dat
 
 `{}` are used to create a block of code
 `5.times { print "hello" }` prints `"hello"` five times
+`do` and `end` can replace brackets in a code block
 
 Using a colon, `:` you can create symbols, which are reusable code words.
+
+`require` is used to load a library
 
 
 ## Syntax
